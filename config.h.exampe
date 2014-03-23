@@ -1,0 +1,9 @@
+// replace <Tinamous Account Name> with the account name you 
+// setup for tinamous (the subdomain used to access tinamous).
+#define SERVER_URL "https://<Tinamous Account Name>.tinamous.com";
+#define STATUS_API "https://<Tinamous Account Name>.tinamous.com/api/v1/Status";
+#define MEASUREMENTS_API "https://<Tinamous Account Name>.tinamous.com/api/v1/Measurements";
+
+// Replace the Device Name and Device Password with the 
+// username and passowrd you gave the device. Keep the :
+#define USERNAME_AND_PASSWORD "<Device Name>:<Device Password>";
